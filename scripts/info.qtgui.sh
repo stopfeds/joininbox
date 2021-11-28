@@ -71,7 +71,7 @@ Use the PASSWORD_B (rpcpassword in the bitcoin.conf) to open the JoinMarket-QT G
 
 elif [ "${CHOICE}" = "WINDOWS" ]; then
   echo "
-Download, install and run XMing with the default settings - https://xming.en.softonic.com/
+Download, install and run XMing with the default settings - https://xming.en.softonic.com/download
 
 Open Putty and fill in:
     Host Name: $localip
